@@ -1,0 +1,39 @@
+
+
+body{
+	background-image: url(images/index.jpg);
+	margin:0 0 100px;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	 background-position: center left;
+}
+#title{
+	color:blue;
+	font-weight: bold;
+	position: relative;
+}
+
+.btext{
+	margin: 150px;
+	padding:120px;
+	
+	font-family: 'Roboto', serif;
+	font-weight: bold;
+}
+
+#heading1{
+	font-size:70px;
+	font-family: 'Roboto',serif;
+}
+
+td{
+	font-weight: bold;
+	font-family: Georgia;
+	font-size: 30px;
+}
+
+th{
+	font-weight: italic;
+	font-size:30px;
+}
+

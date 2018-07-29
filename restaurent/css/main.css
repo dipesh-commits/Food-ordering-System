@@ -1,0 +1,146 @@
+body{
+	padding: 50px;
+}
+
+
+
+
+#headerWrapper{
+	position: relative;
+	padding: 0px;
+	margin: 0px;
+	overflow: hidden;
+	height: 600px;
+	background-image: url(../images/headerlogo/background.png);
+	background-size: 100% 800px;
+	background-repeat: no-repeat;
+	background-position: top center;
+	background-attachment: fixed;
+}
+
+#logotext{
+	position: absolute;
+	width: 100%;
+	height: 150px;
+	background-image: url(../images/headerlogo/logo.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 70% 150px;
+	top: 250px;
+	}
+
+	#for-flower{
+		position: absolute;
+		width: 100%;
+		height: 400px;
+		background-image: url(../images/headerlogo/fore-flower.png);
+		background-repeat: no-repeat;
+		background-size: auto 400px;
+		background-position: right bottom;
+		top: 500px;
+		right: -50px;
+
+	}
+
+	#back-flower{
+		position: absolute;
+		width: 100%;
+		height: 350px;
+		background-image: url(../images/headerlogo/back-flower.png);
+		background-position: left bottom;
+		background-repeat: no-repeat;
+		background-size: auto 350px;
+		top: 500px;
+	}
+
+	#partial-headerWrapper{
+	position: relative;
+	padding: 0px;
+	margin: 0px;
+	overflow: hidden;
+	height: 210px;
+	background-image: url(../images/headerlogo/background.png);
+	background-size: 100% 800px;
+	background-repeat: no-repeat;
+	background-position: top center;
+	background-attachment: fixed;
+}
+
+#partial-logotext{
+	position: absolute;
+	width: 100%;
+	height: 150px;
+	background-image: url(../images/headerlogo/logo.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 70% 150px;
+	top: 250px;
+	}
+
+	#partial-for-flower{
+		position: absolute;
+		width: 100%;
+		height: 400px;
+		background-image: url(../images/headerlogo/fore-flower.png);
+		background-repeat: no-repeat;
+		background-size: auto 400px;
+		background-position: right bottom;
+		top: 100px;
+		right: -50px;
+
+	}
+
+	#partial-back-flower{
+		position: absolute;
+		width: 100%;
+		height: 350px;
+		background-image: url(../images/headerlogo/back-flower.png);
+		background-position: left bottom;
+		background-repeat: no-repeat;
+		background-size: auto 350px;
+		top: 75px;
+	}
+
+
+	.img-thumb{
+		width: auto;
+		height: 200px; 
+		padding: 10px;
+		margin: 20px;
+	}
+
+	#footer{
+		margin-top: 50px;
+	}
+
+	img.details{
+		width: 55%;
+		margin: 10px auto;
+
+	}
+
+	.table-auto{
+		width: auto;
+		margin: 0 auto;
+	}
+
+	#add-product-btn{
+		margin-top: -35px;
+
+	}
+	
+	#childcategory{
+		margin-top: -45px;
+	}
+
+	#login-form{
+		width: 50%;
+		height: 60%;
+		border:2px solid #000;
+		border-radius: 15px;
+		background-color: white;
+		box-shadow: : 7px 7px 15px rgba(0,0,0,0.6);
+		margin: 7% auto;
+		padding: 15px;
+
+	}
